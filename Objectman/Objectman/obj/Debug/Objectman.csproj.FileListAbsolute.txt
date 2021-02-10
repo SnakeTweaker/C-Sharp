@@ -1,0 +1,2 @@
+C:\Users\Ceej\source\repos\Objectman\Objectman\obj\Debug\Objectman.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\Objectman\Objectman\obj\Debug\Objectman.csproj.CoreCompileInputs.cache
