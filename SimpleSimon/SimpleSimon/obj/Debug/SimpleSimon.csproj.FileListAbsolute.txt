@@ -1,0 +1,7 @@
+C:\Users\Ceej\source\repos\SimpleSimon\SimpleSimon\bin\Debug\SimpleSimon.exe.config
+C:\Users\Ceej\source\repos\SimpleSimon\SimpleSimon\bin\Debug\SimpleSimon.exe
+C:\Users\Ceej\source\repos\SimpleSimon\SimpleSimon\bin\Debug\SimpleSimon.pdb
+C:\Users\Ceej\source\repos\SimpleSimon\SimpleSimon\obj\Debug\SimpleSimon.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\SimpleSimon\SimpleSimon\obj\Debug\SimpleSimon.csproj.CoreCompileInputs.cache
+C:\Users\Ceej\source\repos\SimpleSimon\SimpleSimon\obj\Debug\SimpleSimon.exe
+C:\Users\Ceej\source\repos\SimpleSimon\SimpleSimon\obj\Debug\SimpleSimon.pdb

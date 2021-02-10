@@ -1,0 +1,7 @@
+C:\Users\Ceej\source\repos\varvar\varvar\bin\Debug\varvar.exe.config
+C:\Users\Ceej\source\repos\varvar\varvar\bin\Debug\varvar.exe
+C:\Users\Ceej\source\repos\varvar\varvar\bin\Debug\varvar.pdb
+C:\Users\Ceej\source\repos\varvar\varvar\obj\Debug\varvar.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\varvar\varvar\obj\Debug\varvar.csproj.CoreCompileInputs.cache
+C:\Users\Ceej\source\repos\varvar\varvar\obj\Debug\varvar.exe
+C:\Users\Ceej\source\repos\varvar\varvar\obj\Debug\varvar.pdb

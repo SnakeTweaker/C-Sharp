@@ -1,0 +1,13 @@
+C:\Users\Ceej\source\repos\StringMap\StringMap\bin\Debug\netcoreapp3.1\StringMap.exe
+C:\Users\Ceej\source\repos\StringMap\StringMap\bin\Debug\netcoreapp3.1\StringMap.deps.json
+C:\Users\Ceej\source\repos\StringMap\StringMap\bin\Debug\netcoreapp3.1\StringMap.runtimeconfig.json
+C:\Users\Ceej\source\repos\StringMap\StringMap\bin\Debug\netcoreapp3.1\StringMap.runtimeconfig.dev.json
+C:\Users\Ceej\source\repos\StringMap\StringMap\bin\Debug\netcoreapp3.1\StringMap.dll
+C:\Users\Ceej\source\repos\StringMap\StringMap\bin\Debug\netcoreapp3.1\StringMap.pdb
+C:\Users\Ceej\source\repos\StringMap\StringMap\obj\Debug\netcoreapp3.1\StringMap.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\StringMap\StringMap\obj\Debug\netcoreapp3.1\StringMap.AssemblyInfoInputs.cache
+C:\Users\Ceej\source\repos\StringMap\StringMap\obj\Debug\netcoreapp3.1\StringMap.AssemblyInfo.cs
+C:\Users\Ceej\source\repos\StringMap\StringMap\obj\Debug\netcoreapp3.1\StringMap.csproj.CoreCompileInputs.cache
+C:\Users\Ceej\source\repos\StringMap\StringMap\obj\Debug\netcoreapp3.1\StringMap.dll
+C:\Users\Ceej\source\repos\StringMap\StringMap\obj\Debug\netcoreapp3.1\StringMap.pdb
+C:\Users\Ceej\source\repos\StringMap\StringMap\obj\Debug\netcoreapp3.1\StringMap.genruntimeconfig.cache
