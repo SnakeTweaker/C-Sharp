@@ -1,0 +1,7 @@
+C:\Users\Ceej\source\repos\PracticeArray\PracticeArray\bin\Debug\PracticeArray.exe.config
+C:\Users\Ceej\source\repos\PracticeArray\PracticeArray\bin\Debug\PracticeArray.exe
+C:\Users\Ceej\source\repos\PracticeArray\PracticeArray\bin\Debug\PracticeArray.pdb
+C:\Users\Ceej\source\repos\PracticeArray\PracticeArray\obj\Debug\PracticeArray.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\PracticeArray\PracticeArray\obj\Debug\PracticeArray.csproj.CoreCompileInputs.cache
+C:\Users\Ceej\source\repos\PracticeArray\PracticeArray\obj\Debug\PracticeArray.exe
+C:\Users\Ceej\source\repos\PracticeArray\PracticeArray\obj\Debug\PracticeArray.pdb

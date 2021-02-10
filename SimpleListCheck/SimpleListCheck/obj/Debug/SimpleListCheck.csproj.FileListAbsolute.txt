@@ -1,0 +1,2 @@
+C:\Users\Ceej\source\repos\SimpleListCheck\SimpleListCheck\obj\Debug\SimpleListCheck.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\SimpleListCheck\SimpleListCheck\obj\Debug\SimpleListCheck.csproj.CoreCompileInputs.cache

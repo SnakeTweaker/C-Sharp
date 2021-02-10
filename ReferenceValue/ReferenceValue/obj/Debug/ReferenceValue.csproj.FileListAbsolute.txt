@@ -1,0 +1,7 @@
+C:\Users\Ceej\source\repos\ReferenceValue\ReferenceValue\bin\Debug\ReferenceValue.exe.config
+C:\Users\Ceej\source\repos\ReferenceValue\ReferenceValue\bin\Debug\ReferenceValue.exe
+C:\Users\Ceej\source\repos\ReferenceValue\ReferenceValue\bin\Debug\ReferenceValue.pdb
+C:\Users\Ceej\source\repos\ReferenceValue\ReferenceValue\obj\Debug\ReferenceValue.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\ReferenceValue\ReferenceValue\obj\Debug\ReferenceValue.csproj.CoreCompileInputs.cache
+C:\Users\Ceej\source\repos\ReferenceValue\ReferenceValue\obj\Debug\ReferenceValue.exe
+C:\Users\Ceej\source\repos\ReferenceValue\ReferenceValue\obj\Debug\ReferenceValue.pdb

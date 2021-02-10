@@ -1,0 +1,7 @@
+C:\Users\Ceej\source\repos\Reference Types and Value Types\Reference Types and Value Types\bin\Debug\Reference Types and Value Types.exe.config
+C:\Users\Ceej\source\repos\Reference Types and Value Types\Reference Types and Value Types\bin\Debug\Reference Types and Value Types.exe
+C:\Users\Ceej\source\repos\Reference Types and Value Types\Reference Types and Value Types\bin\Debug\Reference Types and Value Types.pdb
+C:\Users\Ceej\source\repos\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\Reference Types and Value Types.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\Reference Types and Value Types.csproj.CoreCompileInputs.cache
+C:\Users\Ceej\source\repos\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\Reference Types and Value Types.exe
+C:\Users\Ceej\source\repos\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\Reference Types and Value Types.pdb

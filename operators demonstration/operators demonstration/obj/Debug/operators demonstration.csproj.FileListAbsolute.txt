@@ -1,0 +1,7 @@
+C:\Users\Ceej\source\repos\operators demonstration\operators demonstration\obj\Debug\operators demonstration.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\operators demonstration\operators demonstration\obj\Debug\operators demonstration.csproj.CoreCompileInputs.cache
+C:\Users\Ceej\source\repos\operators demonstration\operators demonstration\bin\Debug\operators demonstration.exe.config
+C:\Users\Ceej\source\repos\operators demonstration\operators demonstration\bin\Debug\operators demonstration.exe
+C:\Users\Ceej\source\repos\operators demonstration\operators demonstration\bin\Debug\operators demonstration.pdb
+C:\Users\Ceej\source\repos\operators demonstration\operators demonstration\obj\Debug\operators demonstration.exe
+C:\Users\Ceej\source\repos\operators demonstration\operators demonstration\obj\Debug\operators demonstration.pdb
