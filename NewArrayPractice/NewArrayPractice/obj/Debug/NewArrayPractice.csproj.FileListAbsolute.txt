@@ -1,0 +1,7 @@
+C:\Users\Ceej\source\repos\NewArrayPractice\NewArrayPractice\obj\Debug\NewArrayPractice.csprojAssemblyReference.cache
+C:\Users\Ceej\source\repos\NewArrayPractice\NewArrayPractice\obj\Debug\NewArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\Ceej\source\repos\NewArrayPractice\NewArrayPractice\bin\Debug\NewArrayPractice.exe.config
+C:\Users\Ceej\source\repos\NewArrayPractice\NewArrayPractice\bin\Debug\NewArrayPractice.exe
+C:\Users\Ceej\source\repos\NewArrayPractice\NewArrayPractice\bin\Debug\NewArrayPractice.pdb
+C:\Users\Ceej\source\repos\NewArrayPractice\NewArrayPractice\obj\Debug\NewArrayPractice.exe
+C:\Users\Ceej\source\repos\NewArrayPractice\NewArrayPractice\obj\Debug\NewArrayPractice.pdb
