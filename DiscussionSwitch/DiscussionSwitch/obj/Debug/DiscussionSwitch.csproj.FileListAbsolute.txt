@@ -1,0 +1,7 @@
+C:\Users\user6\source\repos\DiscussionSwitch\DiscussionSwitch\obj\Debug\DiscussionSwitch.csprojAssemblyReference.cache
+C:\Users\user6\source\repos\DiscussionSwitch\DiscussionSwitch\obj\Debug\DiscussionSwitch.csproj.CoreCompileInputs.cache
+C:\Users\user6\source\repos\DiscussionSwitch\DiscussionSwitch\bin\Debug\DiscussionSwitch.exe.config
+C:\Users\user6\source\repos\DiscussionSwitch\DiscussionSwitch\bin\Debug\DiscussionSwitch.exe
+C:\Users\user6\source\repos\DiscussionSwitch\DiscussionSwitch\bin\Debug\DiscussionSwitch.pdb
+C:\Users\user6\source\repos\DiscussionSwitch\DiscussionSwitch\obj\Debug\DiscussionSwitch.exe
+C:\Users\user6\source\repos\DiscussionSwitch\DiscussionSwitch\obj\Debug\DiscussionSwitch.pdb
